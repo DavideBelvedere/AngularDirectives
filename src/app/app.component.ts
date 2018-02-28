@@ -7,4 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'app';
+  color: string="blue";
+
+  evilDad: boolean=true;
 }
